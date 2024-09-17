@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml">
+    <VBox>
+        <TextArea: fx:id="fidoOrNancy?"  text="Fido... Or Nancy?" />
+        <HBox>
+            <Button: text="Get a Pro Bone-o Dog Lawyer" />
+            <Button: text="FEED SPIKE CHOCOLATE!?!?" />
+            <Button: text="Random Generate A Dog Name" />
+            <Button: text="Make it Ruff Randy Retriever" />
+            <VBox>
+                <Button: text="Bark" />
+                <Button: text="Roll" />
+                <Button: text="Treat!" />
+            </VBox>
+        </HBox>
+    </VBox>
+</AnchorPane>
